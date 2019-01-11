@@ -56,7 +56,9 @@ public final class GUI extends javax.swing.JFrame {
     
     public  GUI(boolean b){}
     
+    int a;///asd
     
+    ////
     
     int contador = 0;
     boolean estaCadastrado = false;
