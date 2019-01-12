@@ -36,7 +36,8 @@ import javax.swing.UIManager;
  */
 
 public final class GUI extends javax.swing.JFrame {
-    
+   
+    //teste1
     
 
     public GUI() {     
@@ -54,8 +55,7 @@ public final class GUI extends javax.swing.JFrame {
                                  
     }
     
-    public  GUI(boolean b){}
-    
+   
       int contador = 0;
     boolean estaCadastrado = false;
     boolean fezAvaliacao = false;
